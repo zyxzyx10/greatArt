@@ -1,5 +1,6 @@
-Download this project from Github
-
+Download thes 2 projects from Github
+https://github.com/zyxzyx10/greatArt
+https://github.com/zyxzyx10/paper-dashboard-angular
 
 Install nvm
 https://github.com/nvm-sh/nvm
